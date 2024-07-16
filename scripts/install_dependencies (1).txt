@@ -1,0 +1,3 @@
+#!/bin/bash
+curl -fsSL                        -o get-docker.sh
+sh get-docker.sh
