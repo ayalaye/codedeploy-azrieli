@@ -1,3 +1,2 @@
 #!/bin/bash
-service httpd start
-
+docker run --name ayala-nginx -d -p 80:80 nginx
